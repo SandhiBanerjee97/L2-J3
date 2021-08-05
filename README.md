@@ -33,7 +33,7 @@ DELETE ->/students/{id} -> Delete student data wirh specific id
 
 **Three Users are Aautomatically created**
 
-"user1" and "user2" can only make GET Request -> /students AND /students/{id}
+"user1" and "user2" can only make GET Request -> /students   AND   /students/{id}
 password : abcd1234
 
 "admin" can access all Requests
